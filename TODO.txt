@@ -1,0 +1,3 @@
+-GUI
+-DCC støtte
+-Interaksjon med goodreads
